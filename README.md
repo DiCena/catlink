@@ -1,5 +1,5 @@
 > [!NOTE]
-> **This is a fork** of [hasscc/catlink](https://github.com/hasscc/catlink) with full Scooper Pro Ultra support (camera with sound, live state, settings, speaker and live talk) while it is reviewed upstream. Install it in HACS as a custom repository (`https://github.com/DiCena/catlink`, category Integration). Once upstream has merged it, remove this repository and install hasscc/catlink again; your settings and entities stay. Report issues with this fork [here](https://github.com/DiCena/catlink/issues).
+> **This is a fork** of [hasscc/catlink](https://github.com/hasscc/catlink) with full Scooper Pro Ultra support (camera with sound, live state, settings, speaker and live talk) while it is reviewed upstream ([#77](https://github.com/hasscc/catlink/pull/77), [#78](https://github.com/hasscc/catlink/pull/78)). Install it in HACS as a custom repository (`https://github.com/DiCena/catlink`, category Integration). Once upstream has merged it, remove this repository and install hasscc/catlink again; your settings and entities stay. Report issues with this fork [here](https://github.com/DiCena/catlink/issues).
 
 <div align="center">
   <h2>CATLINK v2 Integration for Home Assistant</h2>
